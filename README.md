@@ -1,1 +1,1 @@
-[![xchdtk GitHub stats](https://github-readme-stats.vercel.app/api?username=xchdtk)](https://github.com/anuraghazra/github-readme-stats)
+![xchdtk GitHub stats](https://github-readme-stats.vercel.app/api?username=xchdtk&show_icons=true&theme=onedark)
