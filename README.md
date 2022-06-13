@@ -26,4 +26,4 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 
 ## Portfolio
-[jinsoo portfolio](https://righteous-poppyseed-b05.notion.site/a8367d25b7424e7c9942e903a92cbddb)
+[click portfolio link](https://righteous-poppyseed-b05.notion.site/a8367d25b7424e7c9942e903a92cbddb)
