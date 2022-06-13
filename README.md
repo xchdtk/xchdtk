@@ -25,5 +25,9 @@
 #### Cloud
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 
+## Studying Hard
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+
 ## Portfolio
 [click portfolio link](https://righteous-poppyseed-b05.notion.site/a8367d25b7424e7c9942e903a92cbddb)
